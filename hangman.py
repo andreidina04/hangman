@@ -53,12 +53,12 @@ while not game_over:
         # Check for game loss
         if lives == 0:
             print("Game Over! No lives remaining.")
+            print(f"The word is: {chosen_word}")
             game_over = True
-
-    # Check for game win (no underscores left in the display)
     if "_" not in display:
         game_over = True
         print("Congratulations! You Won.")
+        print(f"The word is: {chosen_word}")
 
     # Print the current hangman image corresponding to the remaining lives
     print(HANGMANPICS[lives])
