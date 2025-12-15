@@ -4,7 +4,7 @@
 This is a classic command-line implementation of the Hangman game built with Python.
 
 🚀 How to Play
-Run the script: Execute the Python file (your_script_name.py) in your terminal.
+Run the script: Execute the Python file (hangman.py) in your terminal.
 
 Guess a letter: The game will display a series of underscores representing the secret word. Enter one letter at a time when prompted.
 
