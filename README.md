@@ -1,4 +1,4 @@
-<img width="454" height="230" alt="image" src="https://github.com/user-attachments/assets/ec771bf9-7fb7-44a2-8f7d-207d510f6fb7" />
+<img width="474" height="254" alt="image" src="https://github.com/user-attachments/assets/8d74c9dc-1c60-4131-a768-21dd0f64c9ae" />
 
 💀 Hangman Game
 This is a classic command-line implementation of the Hangman game built with Python.
