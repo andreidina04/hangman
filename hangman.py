@@ -4,7 +4,6 @@ from hangman_art import HANGMANPICS # ASCII art for the hangman stages
 
 # Randomly select a word from the list
 chosen_word = random.choice(word_list)
-print(chosen_word) # For testing/debugging, shows the chosen word
 
 lives = 6 # Initial number of lives
 placeholder = ""
